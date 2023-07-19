@@ -1,7 +1,7 @@
 /* =========Responsive css start bellow=========== */
 /* ===============for tablate============== */
 
-@media(min-width:578px) and (max-width:778px){
+@media screen and (min-width:578px) and (max-width:778px){
 
     .header-main {
         text-align: center;
@@ -141,12 +141,7 @@
         line-height: 30px;
     }
 
-
 }
-
-
-
-
 
 
 
